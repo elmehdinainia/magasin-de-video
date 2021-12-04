@@ -6,6 +6,9 @@ header ul{
     line-height: 45px;  
    
 }
+header ul li a{
+    color: black;
+}
 li{
 
     padding-right:20px;
@@ -39,3 +42,31 @@ nav ol li{
 nav ol{
     display: flex;
 }
+.article img{
+    width: 100% ;
+}
+.article{
+    border: 2px solid rgb(20, 19, 19);
+    width: 250px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding: bottom 80px;;
+    margin: 2px;
+}
+.article ol{
+    list-style: none;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(rgb(137, 245, 37),red,green);
+}
+section{
+    display: flex;
+}
+.your{
+    color: greenyellow;
+}
+.pric{
+    width: 200px;
+}
+
