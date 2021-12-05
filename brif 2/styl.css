@@ -69,4 +69,6 @@ section{
 .pric{
     width: 200px;
 }
-
+strong{
+    text-decoration:underline;
+}
