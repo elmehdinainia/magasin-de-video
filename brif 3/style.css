@@ -99,7 +99,17 @@ div p{
     margin-left: 5%;
   }
 }
-
+@media  (min-width: 1280px){
+    section{
+        display: flex;
+       
+    }  
+    header ul{
+        margin-left: 41%;
+    display: flex;
+    }
+  }
+  
     
 
 /* @media screen and (min-width=600){
